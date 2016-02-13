@@ -18,7 +18,7 @@ object Kakezan {
       blank += " "
       i += 1
     }
-    return blank
+    blank
   }
   
   /*
